@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from LH7n device
+# Inherit from LH8n device
 $(call inherit-product, device/tecno/LH7n/device.mk)
 
 # Inherit some common TWRP stuff.
